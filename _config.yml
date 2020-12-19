@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Keystone Brass
-description: Friends from across the Keystone State who, associated at some level through the Keystone Christian Education Association (KCEA), share a mutual enjoyment of playing brass. KCEA has been serving churches and Christian schools statewide since 1974.
 show_downloads: false
+show_hosting: false
+show_repository_url: false
