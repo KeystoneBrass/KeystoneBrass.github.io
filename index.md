@@ -3,9 +3,14 @@
 ---
 # Welcome!
 
-The Keystone Brass is comprised of friends from across the Keystone State who, associated at some level through the
-[Keystone Christian Education Association (KCEA)](https://kcea.com/){:target="_blank" rel="noopener noreferrer"},
-share a mutual enjoyment of playing brass. KCEA has been serving churches and Christian schools statewide since 1974.
+The Keystone Brass is comprised of friends from across the Keystone State who, associated at some level
+through the Keystone Christian Education Association (KCEA), share a mutual enjoyment of playing brass.
+
+[KCEA](https://kcea.com/){:target="_blank" rel="noopener noreferrer"}, a fellowship of independent
+churches and Christian schools following the historical and biblical faith, has been providing a vital
+service to churches and Christian schools across the Keystone State since 1974, with a mission of
+helping preserve freedoms and liberties in Pennsylvania’s churches, schools, and families; promoting
+quality in the education programs of our schools; and helping and encouraging those in need.
 
 * * *
 
