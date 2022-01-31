@@ -16,6 +16,8 @@ Due to Coronavirus concerns, all live Lessons & Carols in Brass services were ca
 however, with publisher permission, a special
 Lessons & Carols in Brass service was prepared for online broadcast.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gyskQlULv-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * * *
 
 # About Us
