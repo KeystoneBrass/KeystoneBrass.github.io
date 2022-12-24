@@ -11,8 +11,8 @@
 
 ## Lessons & Carols in Brass
 
-#### 2020 – 2021 Seasons: Christmas Meditations
-Due to Coronavirus concerns, all live Lessons & Carols in Brass services were cancelled;
+#### 2020 – 2022 Seasons: Christmas Meditations
+Due to pandemic concerns, all live Lessons & Carols in Brass services were cancelled;
 however, with publisher permission, a special
 Lessons & Carols in Brass service was prepared for online broadcast.
 
